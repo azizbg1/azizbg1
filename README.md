@@ -2,6 +2,8 @@
 
 ### Full-Stack Developer | M2 Data Science in Business
 
+🌐 **Portfolio:** [portfolio-indol-five-15.vercel.app](https://portfolio-indol-five-15.vercel.app/)
+
 I'm a full-stack developer with experience building web applications from frontend interfaces to backend APIs, databases and deployment workflows, with additional experience in data science and AI-powered solutions.
 
 I enjoy building end-to-end applications, from modern web interfaces and backend services to databases, automation workflows and intelligent document-processing systems.
@@ -115,6 +117,7 @@ Final-year project developed for **ATB Bank**, focused on the management of cust
 
 ## 📫 Contact
 
+- 🌐 **Portfolio:** [portfolio-indol-five-15.vercel.app](https://portfolio-indol-five-15.vercel.app/)
 - 📧 **Email:** benguirataziz75@gmail.com
 - 💻 **GitHub:** [github.com/azizbg1](https://github.com/azizbg1)
 
