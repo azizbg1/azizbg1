@@ -76,7 +76,7 @@ AI-powered full-stack platform for financial document analysis.
 ### 🩺 MedSecure
 Secure AI-assisted medical consultation platform with dedicated patient and doctor experiences.
 
-**Repository:** [MedSecure](https://github.com/azizbg1/MedSecure)
+**Repository:** [MedSecure](https://github.com/azizbg1/MedSecure-Platform)
 
 **Highlights**
 - Patient and doctor dashboards
