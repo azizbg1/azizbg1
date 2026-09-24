@@ -1,17 +1,17 @@
 # Hi, I'm Aziz Ben Guirat 👋
 
-### Data & Backend Developer | M2 Data Science in Business
+### Full-Stack Developer | M2 Data Science in Business
 
-I'm a developer with experience in backend development, web applications, data science and AI-powered solutions.
+I'm a full-stack developer with experience building web applications from frontend interfaces to backend APIs, databases and deployment workflows, with additional experience in data science and AI-powered solutions.
 
-I enjoy building end-to-end applications, from backend APIs and databases to modern web interfaces, automation workflows and intelligent document-processing systems.
+I enjoy building end-to-end applications, from modern web interfaces and backend services to databases, automation workflows and intelligent document-processing systems.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Master 2 in **Data Science in Business**
-- 💻 Experience in **Backend & Web Development**
+- 💻 Experience in **Full-Stack Web Development**
 - 🤖 Interested in **AI, Machine Learning, RAG and intelligent automation**
 - 🧠 Working with document processing, NLP and LLM-based applications
 - 📍 Paris, France
@@ -89,8 +89,9 @@ Academic graduation project focused on building a web application for the bankin
 
 ## 💼 What I Work On
 
+- Full-stack web applications
 - Backend APIs and business applications
-- Full-stack web development
+- Frontend interfaces and dashboards
 - Data processing and machine learning
 - AI-assisted document analysis
 - RAG and LLM-based applications
