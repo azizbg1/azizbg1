@@ -53,6 +53,16 @@ I enjoy building end-to-end applications, from modern web interfaces and backend
 
 ## ⭐ Featured Projects
 
+### 🏦 ATB Banking Queue Management Platform
+Final-year project developed for **ATB Bank**, focused on the management of customer queues and banking service flows through a full-stack web application.
+
+**Backend:** [Backend_gestion-file](https://github.com/azizbg1/Backend_gestion-file)  
+**Frontend:** [gestion-file_Front](https://github.com/azizbg1/gestion-file_Front)
+
+**Stack:** Java 17 · Spring Boot · React · TypeScript · Vite · MySQL · REST APIs · JWT · WebSocket
+
+---
+
 ### 📄 FinDoc Analyzer AI
 AI-powered platform for financial document analysis.
 
@@ -67,23 +77,6 @@ AI-powered platform for financial document analysis.
 - User management and dashboard
 
 **Stack:** Python · FastAPI · React · PostgreSQL · MinIO · Docker · LangChain · LangGraph
-
----
-
-### 📁 File Management Platform
-Full-stack file management application with separate backend and frontend repositories.
-
-**Backend:** [Backend_gestion-file](https://github.com/azizbg1/Backend_gestion-file)  
-**Frontend:** [gestion-file_Front](https://github.com/azizbg1/gestion-file_Front)
-
-**Stack:** Java · Spring Boot · React · REST APIs
-
----
-
-### 🏦 Banking Application
-Academic graduation project focused on building a web application for the banking domain.
-
-**Stack:** Java · React · REST APIs
 
 ---
 
