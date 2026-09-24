@@ -53,18 +53,10 @@ I enjoy building end-to-end applications, from modern web interfaces and backend
 
 ## ⭐ Featured Projects
 
-### 🏦 ATB Banking Queue Management Platform
-Final-year project developed for **ATB Bank**, focused on the management of customer queues and banking service flows through a full-stack web application.
-
-**Backend:** [Backend_gestion-file](https://github.com/azizbg1/Backend_gestion-file)  
-**Frontend:** [gestion-file_Front](https://github.com/azizbg1/gestion-file_Front)
-
-**Stack:** Java 17 · Spring Boot · React · TypeScript · Vite · MySQL · REST APIs · JWT · WebSocket
-
----
-
 ### 📄 FinDoc Analyzer AI
-AI-powered platform for financial document analysis.
+AI-powered full-stack platform for financial document analysis.
+
+**Repository:** [FinDoc-Analyser](https://github.com/azizbg1/FinDoc-Analyser)
 
 **Main features**
 - OCR and document text extraction
@@ -73,10 +65,20 @@ AI-powered platform for financial document analysis.
 - Anomaly detection with Isolation Forest
 - Automatic summarization
 - Retrieval-Augmented Generation (RAG)
-- LLM orchestration with LangGraph
-- User management and dashboard
+- Local LLM inference with Ollama / Llama 3
+- Analysis dashboard and conversational assistant
 
-**Stack:** Python · FastAPI · React · PostgreSQL · MinIO · Docker · LangChain · LangGraph
+**Stack:** Python · FastAPI · React · PostgreSQL · ChromaDB · Docker · LangChain · LangGraph
+
+---
+
+### 🏦 ATB Banking Queue Management Platform
+Final-year project developed for **ATB Bank**, focused on the management of customer queues and banking service flows through a full-stack web application.
+
+**Backend:** [Backend_gestion-file](https://github.com/azizbg1/Backend_gestion-file)  
+**Frontend:** [gestion-file_Front](https://github.com/azizbg1/gestion-file_Front)
+
+**Stack:** Java 17 · Spring Boot · React · TypeScript · Vite · MySQL · REST APIs · JWT · WebSocket
 
 ---
 
