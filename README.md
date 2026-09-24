@@ -30,6 +30,7 @@ I enjoy building end-to-end applications, from modern web interfaces and backend
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -69,6 +70,24 @@ AI-powered full-stack platform for financial document analysis.
 - Analysis dashboard and conversational assistant
 
 **Stack:** Python · FastAPI · React · PostgreSQL · ChromaDB · Docker · LangChain · LangGraph
+
+---
+
+### 🩺 MedSecure
+Secure AI-assisted medical consultation platform with dedicated patient and doctor experiences.
+
+**Repository:** [MedSecure](https://github.com/azizbg1/MedSecure)
+
+**Highlights**
+- Patient and doctor dashboards
+- Appointment and consultation workflows
+- Pre-consultation questionnaires
+- AI-assisted medical summaries and alerts
+- Medical history and reporting interfaces
+- Secure architecture with Keycloak, RBAC and 2FA concepts
+- Containerized infrastructure with PostgreSQL, Redis and MinIO
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Docker · PostgreSQL · Keycloak · Redis · MinIO
 
 ---
 
